@@ -1,4 +1,4 @@
-List of the repositories under STPDev
+List of the repositories under AWEDev
 
 
 1. **AI-AGENT**  
