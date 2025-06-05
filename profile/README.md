@@ -7,7 +7,7 @@ List of the repositories under AWEDev
 
 2. **alphadao**  
    - Description:  Dao products
-   - Language: TypeScript  
+   - Language: TypeScript
 
 3. **alpha-site**  
    - Description:  Dao products
@@ -34,71 +34,71 @@ List of the repositories under AWEDev
    - Language: TypeScript  
 
 9. **awns-iframe**  
-   - Description: Render your NFT with its TBA.  
+   - Description: (Legacy) Render your NFT with its TBA.  
    - Language: TypeScript  
 
 10. **awns-contract**  
-    - Description:  Compact AWNS contract.
+    - Description: (Legacy) Compact AWNS contract.
     - Language: Solidity  
 
 11. **clique-awns**  
-    - Description:  The decentralized domain name system on the Clique blockchain with ERC-6551 NFT standard tokens.
+    - Description: (Legacy) The decentralized domain name system on the Clique blockchain with ERC-6551 NFT standard tokens.
     - Language: TypeScript  
 
 12. **clique-awns-backend**  
-    - Description:  AWNS backend server code.
+    - Description:  (Legacy) AWNS backend server code.
     - Language: Go  
 
 13. **clique-awns-contract**  
-    - Description:  AWNS contract.
+    - Description:  (Legacy) AWNS contract.
     - Language: JavaScript  
 
 14. **clique-awns-sdk**  
-    - Description:  provides easy access to the high level interactions to be governed with a Clique DAO.
+    - Description: (Legacy) provides easy access to the high level interactions to be governed with a Clique DAO.
     - Language: TypeScript  
 
 15. **clique-core**  
-    - Description:  clique product
+    - Description: (Legacy) clique product
     - Language: Not provided  
 
 16. **clique-core-v2**  
-    - Description:  Clique V2 Smart Contracts.
+    - Description: (Legacy) Clique V2 Smart Contracts.
     - Language: Solidity  
 
 17. **clique-free-mint**  
-    - Description: The NFT minting platform based on the Clique chain, supports user-autonomous creation and casting.
+    - Description: (Legacy) The NFT minting platform based on the Clique chain, supports user-autonomous creation and casting.
     - Language: TypeScript  
 
 18. **clique-interface**  
-    - Description:  It's an off-chain voting platform that allows communities to easily participate in decentralized governance without having to pay gas fees.
+    - Description: (Legacy) It's an off-chain voting platform that allows communities to easily participate in decentralized governance without having to pay gas fees.
     - Language: TypeScript  
 
 19. **clique-interface-v2**  
-    - Description:  New planning and collaboration features based on V1.
+    - Description:  (Legacy) New planning and collaboration features based on V1.
     - Language: TypeScript  
 
 20. **clique-market**  
-    - Description:  The NFT marketplace is based on the Clique chain.
+    - Description: (Legacy) The NFT marketplace is based on the Clique chain.
     - Language: JavaScript  
 
 21. **clique-sdk**  
-    - Description:  clique products
+    - Description:  (Legacy) clique products
     - Language: TypeScript  
 
 22. **clique-server**  
-    - Description:  clique products
+    - Description: (Legacy) clique products
     - Language: Go  
 
 23. **clique-yahtzee**  
-    - Description:  A blockchain-powered adaptation of the beloved dice game Yahtzee, Yacht C combines classic gameplay with decentralized ownership and play-to-earn mechanics.
+    - Description: (Legacy) A blockchain-powered adaptation of the beloved dice game Yahtzee, Yacht C combines classic gameplay with decentralized ownership and play-to-earn mechanics.
     - Language: JavaScript  
 
 24. **dailybot-backend**  
-    - Description:  Daily data statistics script.
+    - Description: (Legacy) Daily data statistics script.
     - Language: Go  
 
 25. **dating-dao**  
-    - Description:  Dao products
+    - Description: (Legacy) Dao products
     - Language: TypeScript  
 
 26. **ethereum-optimism.github.io**  
@@ -106,15 +106,15 @@ List of the repositories under AWEDev
     - Language: TypeScript  
 
 27. **faucet-app**  
-    - Description:  faucet
+    - Description: (Legacy) faucet
     - Language: TypeScript  
 
 28. **faucet-stpt**  
-    - Description:  faucet
+    - Description: (Legacy) faucet
     - Language: Not provided  
 
 29. **game-hub-frontend**  
-    - Description:  A blockchain game aggregation platform.
+    - Description: (Legacy) A blockchain game aggregation platform.
     - Language: TypeScript  
 
 30. **klique-klaytn-app**  
@@ -134,7 +134,7 @@ List of the repositories under AWEDev
     - Language: Vue  
 
 34. **sonet-website**  
-    - Description:  Jumpstart and build your community of players, contributors and partners
+    - Description: (Legacy) Jumpstart and build your community of players, contributors and partners
     - Language: TypeScript  
 
 35. **stp.1.0**  
@@ -162,7 +162,7 @@ List of the repositories under AWEDev
     - Language: HTML  
 
 41. **stp-home**  
-    - Description:  STP official website.
+    - Description: (Legacy) STP official website.
     - Language: TypeScript  
 
 42. **stpdaov3-backend**  
