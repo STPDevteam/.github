@@ -1,195 +1,203 @@
 List of the repositories under AWEDev
 
 
-1. **AI-AGENT**  
+1. **AI-AGENT**
    - Description:  AI Agent with blockchain features
-   - Language: JavaScript  
+   - Language: JavaScript
 
-2. **alphadao**  
+2. **alphadao**
    - Description:  Dao products
    - Language: TypeScript
 
-3. **alpha-site**  
+3. **alpha-site**
    - Description:  Dao products
-   - Language: JavaScript  
+   - Language: JavaScript
 
-4. **assets**  
-   - Description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.  
-   - Language: TypeScript  
+4. **assets**
+   - Description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+   - Language: TypeScript
 
-5. **aw-agent-creator**  
-   - Description: AW Agent Creator GUI  
-   - Language: HTML  
+5. **awesome-server**
+   - Description: AWESOME, AI MCP Agent Platform Backend Server
+   - Language: TypeScript
 
-6. **aw-engine**  
-   - Description: High performance engine for multi agents simulation  
-   - Language: Python  
+6. **awesome-client**
+   - Description: AWESOME, AI MCP Agent Platform Frontend Client
+   - Language: TypeScript
 
-7. **aw-multi-agent-benchmark**  
-   - Description: Performance Benchmark for Multi Agent Simulation  
-   - Language: Python  
+7. **aw-agent-creator**
+   - Description: AW Agent Creator GUI
+   - Language: HTML
 
-8. **aw-web**  
-   - Description:  
-   - Language: TypeScript  
+8. **aw-engine**
+   - Description: High performance engine for multi agents simulation
+   - Language: Python
 
-9. **awns-iframe**  
-   - Description: (Legacy) Render your NFT with its TBA.  
-   - Language: TypeScript  
+9. **aw-multi-agent-benchmark**
+   - Description: Performance Benchmark for Multi Agent Simulation
+   - Language: Python
 
-10. **awns-contract**  
+10. **aw-web**
+   - Description:
+   - Language: TypeScript
+
+11. **awns-iframe**
+   - Description: (Legacy) Render your NFT with its TBA.
+   - Language: TypeScript
+
+12. **awns-contract**
     - Description: (Legacy) Compact AWNS contract.
-    - Language: Solidity  
+    - Language: Solidity
 
-11. **clique-awns**  
+13. **clique-awns**
     - Description: (Legacy) The decentralized domain name system on the Clique blockchain with ERC-6551 NFT standard tokens.
-    - Language: TypeScript  
+    - Language: TypeScript
 
-12. **clique-awns-backend**  
+14. **clique-awns-backend**
     - Description:  (Legacy) AWNS backend server code.
-    - Language: Go  
+    - Language: Go
 
-13. **clique-awns-contract**  
+15. **clique-awns-contract**
     - Description:  (Legacy) AWNS contract.
-    - Language: JavaScript  
+    - Language: JavaScript
 
-14. **clique-awns-sdk**  
+16. **clique-awns-sdk**
     - Description: (Legacy) provides easy access to the high level interactions to be governed with a Clique DAO.
-    - Language: TypeScript  
+    - Language: TypeScript
 
-15. **clique-core**  
+17. **clique-core**
     - Description: (Legacy) clique product
-    - Language: Not provided  
+    - Language: Not provided
 
-16. **clique-core-v2**  
+18. **clique-core-v2**
     - Description: (Legacy) Clique V2 Smart Contracts.
-    - Language: Solidity  
+    - Language: Solidity
 
-17. **clique-free-mint**  
+19. **clique-free-mint**
     - Description: (Legacy) The NFT minting platform based on the Clique chain, supports user-autonomous creation and casting.
-    - Language: TypeScript  
+    - Language: TypeScript
 
-18. **clique-interface**  
+20. **clique-interface**
     - Description: (Legacy) It's an off-chain voting platform that allows communities to easily participate in decentralized governance without having to pay gas fees.
-    - Language: TypeScript  
+    - Language: TypeScript
 
-19. **clique-interface-v2**  
+21. **clique-interface-v2**
     - Description:  (Legacy) New planning and collaboration features based on V1.
-    - Language: TypeScript  
+    - Language: TypeScript
 
-20. **clique-market**  
+22. **clique-market**
     - Description: (Legacy) The NFT marketplace is based on the Clique chain.
-    - Language: JavaScript  
+    - Language: JavaScript
 
-21. **clique-sdk**  
+23. **clique-sdk**
     - Description:  (Legacy) clique products
-    - Language: TypeScript  
+    - Language: TypeScript
 
-22. **clique-server**  
+24. **clique-server**
     - Description: (Legacy) clique products
-    - Language: Go  
+    - Language: Go
 
-23. **clique-yahtzee**  
+25. **clique-yahtzee**
     - Description: (Legacy) A blockchain-powered adaptation of the beloved dice game Yahtzee, Yacht C combines classic gameplay with decentralized ownership and play-to-earn mechanics.
-    - Language: JavaScript  
+    - Language: JavaScript
 
-24. **dailybot-backend**  
+26. **dailybot-backend**
     - Description: (Legacy) Daily data statistics script.
-    - Language: Go  
+    - Language: Go
 
-25. **dating-dao**  
+27. **dating-dao**
     - Description: (Legacy) Dao products
-    - Language: TypeScript  
+    - Language: TypeScript
 
-26. **ethereum-optimism.github.io**  
-    - Description: Unified token list for OP Mainnet, Base, and other OP Chains  
-    - Language: TypeScript  
+28. **ethereum-optimism.github.io**
+    - Description: Unified token list for OP Mainnet, Base, and other OP Chains
+    - Language: TypeScript
 
-27. **faucet-app**  
+29. **faucet-app**
     - Description: (Legacy) faucet
-    - Language: TypeScript  
+    - Language: TypeScript
 
-28. **faucet-stpt**  
+30. **faucet-stpt**
     - Description: (Legacy) faucet
-    - Language: Not provided  
+    - Language: Not provided
 
-29. **game-hub-frontend**  
+31. **game-hub-frontend**
     - Description: (Legacy) A blockchain game aggregation platform.
-    - Language: TypeScript  
+    - Language: TypeScript
 
-30. **klique-klaytn-app**  
-    - Description:  
-    - Language: TypeScript  
+32. **klique-klaytn-app**
+    - Description:
+    - Language: TypeScript
 
-31. **klique-klaytn-website**  
-    - Description:  
-    - Language: TypeScript  
+33. **klique-klaytn-website**
+    - Description:
+    - Language: TypeScript
 
-32. **mto**  
-    - Description:  
-    - Language: HTML  
+34. **mto**
+    - Description:
+    - Language: HTML
 
-33. **scanv2**  
-    - Description:  
-    - Language: Vue  
+35. **scanv2**
+    - Description:
+    - Language: Vue
 
-34. **sonet-website**  
+36. **sonet-website**
     - Description: (Legacy) Jumpstart and build your community of players, contributors and partners
-    - Language: TypeScript  
+    - Language: TypeScript
 
-35. **stp.1.0**  
-    - Description: STP Network staging tree  
-    - Language: C  
+37. **stp.1.0**
+    - Description: STP Network staging tree
+    - Language: C
 
-36. **stp.2.0**  
+38. **stp.2.0**
     - Description:  STP products
-    - Language: Solidity  
+    - Language: Solidity
 
-37. **stp-awe-frontend**  
-    - Description:  
-    - Language: TypeScript  
+39. **stp-awe-frontend**
+    - Description:
+    - Language: TypeScript
 
-38. **stp-dao-dapp**  
+40. **stp-dao-dapp**
     - Description:  Dao products
-    - Language: TypeScript  
+    - Language: TypeScript
 
-39. **stp-dev-core**  
+41. **stp-dev-core**
     - Description:  STP product
-    - Language: JavaScript  
+    - Language: JavaScript
 
-40. **stp-frontend**  
+42. **stp-frontend**
     - Description:  STP front end
-    - Language: HTML  
+    - Language: HTML
 
-41. **stp-home**  
+43. **stp-home**
     - Description: (Legacy) STP official website.
-    - Language: TypeScript  
+    - Language: TypeScript
 
-42. **stpdaov3-backend**  
+44. **stpdaov3-backend**
     - Description:  Dao products
-    - Language: Go  
+    - Language: Go
 
-43. **stpt-wallet**  
+45. **stpt-wallet**
     - Description:  STP products
-    - Language: Vue  
+    - Language: Vue
 
-44. **STP_contract**  
+46. **STP_contract**
     - Description:  STP contract
-    - Language: JavaScript  
+    - Language: JavaScript
 
-45. **synthetix-token-offer**  
+47. **synthetix-token-offer**
     - Description:  Defi
-    - Language: Not provided  
+    - Language: Not provided
 
-46. **verse-gear**  
-    - Description: ETH RPC emulation layer for Meter  
-    - Language: Python  
+48. **verse-gear**
+    - Description: ETH RPC emulation layer for Meter
+    - Language: Python
 
-47. **verse-pov**  
-    - Description: Meter HotStuff PoS consensus based Ethereum Compatible chain framework. Frame architecture supports Multiple VMs and chains.  
-    - Language: Go  
+49. **verse-pov**
+    - Description: Meter HotStuff PoS consensus based Ethereum Compatible chain framework. Frame architecture supports Multiple VMs and chains.
+    - Language: Go
 
-48. **web3-react-coinbase-wallet**  
+50. **web3-react-coinbase-wallet**
     - Description:  @web3-react/coinbase-wallet
-    - Language: TypeScript  
+    - Language: TypeScript
 
